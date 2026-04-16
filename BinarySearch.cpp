@@ -112,3 +112,7 @@ void binarySearch()
 
     } while (ulang == 'y' || ulang == 'Y');
 }
+
+int main(){
+    
+}
